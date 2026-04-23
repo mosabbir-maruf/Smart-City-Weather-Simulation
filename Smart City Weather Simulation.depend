@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1775738410 source:d:\cb\projectg\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
+1769105411 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1769105411 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1775738410 source:d:\cb\smart city weather simulation\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
